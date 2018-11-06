@@ -229,6 +229,25 @@
             }
         },
         {
+            "Key": "618a5430-9018-4d59-a69e-422dd15879fd",
+            "Value": {
+                "id": "c35edcfd-8a60-4f1f-ac65-9c434015aaae",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "timelines\/timeline0\/timeline0.yy",
+                "resourceType": "GMTimeline"
+            }
+        },
+        {
             "Key": "665e8244-ef99-4ef7-ad08-2bb69e91a4e6",
             "Value": {
                 "id": "6012ed44-8f3c-4c8b-99bd-c21f320f3b02",
@@ -362,6 +381,44 @@
             }
         },
         {
+            "Key": "b88a310a-12a9-4b62-b035-78a7e4492473",
+            "Value": {
+                "id": "7d4d320b-4b31-4a7c-b8e9-b42d3b282eca",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_request_virus\/s_request_virus.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c276ef95-c46c-4148-989a-f8bedb6e7599",
+            "Value": {
+                "id": "c8c59dd1-90c6-4ca7-98de-e6444af49bd9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "paths\/path0\/path0.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "cbe7c116-35d4-4abc-a680-cc43a48cd472",
             "Value": {
                 "id": "827616a5-8975-4dcf-baf1-dea5c77ebd0b",
@@ -473,6 +530,25 @@
                 ],
                 "resourcePath": "views\/eb8be4e5-9d87-48c8-9305-fd839790a3bd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ecdd859c-71a6-493f-8689-bd0b96dd6db8",
+            "Value": {
+                "id": "46360534-7317-4a03-bf6a-b4f62768d00c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_request_virus\/o_request_virus.yy",
+                "resourceType": "GMObject"
             }
         },
         {

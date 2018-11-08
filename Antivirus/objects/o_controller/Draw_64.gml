@@ -3,4 +3,4 @@
 
 var score_text = "Score : " + string(score);
 
-draw_text(10, 10, score_text);
+draw_text(30, 30, score_text);

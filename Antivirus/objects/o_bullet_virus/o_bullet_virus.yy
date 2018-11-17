@@ -2,7 +2,7 @@
     "id": "0dce09da-2c66-415d-a95d-d368d75122df",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_bullet_antivirus",
+    "name": "o_bullet_virus",
     "eventList": [
         {
             "id": "cff4c930-f867-446c-8476-c1750a27b981",

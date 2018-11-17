@@ -1,4 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-radius = 100;
-coolDown = 100;
+
+// Inherit the parent event
+event_inherited();
+

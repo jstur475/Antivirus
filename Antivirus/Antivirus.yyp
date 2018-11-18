@@ -77,6 +77,25 @@
             }
         },
         {
+            "Key": "08d3f851-59bd-41aa-8201-d626931aba76",
+            "Value": {
+                "id": "bdbd2f79-f63c-4533-8d9d-12e2b866c167",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_request_trojan\/o_request_trojan.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0dce09da-2c66-415d-a95d-d368d75122df",
             "Value": {
                 "id": "16a275c2-0c8c-4d26-ad39-d20e09833fbb",
@@ -571,6 +590,25 @@
             }
         },
         {
+            "Key": "72a582f1-4c83-42e6-8de1-23c2b2703ebe",
+            "Value": {
+                "id": "459aea46-c9a7-4dab-a8bd-e769ba236dd7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_request_trojan\/s_request_trojan.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "780e0747-f610-42a3-8cf4-266267c6c7f0",
             "Value": {
                 "id": "42a7b02e-6148-4974-a253-e0f8973c3a5d",
@@ -681,6 +719,25 @@
                     "default"
                 ],
                 "resourcePath": "objects\/o_straight\/o_straight.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "991411ef-3412-4d9d-acf1-da50f9b30ce5",
+            "Value": {
+                "id": "2603faf6-4ca8-48b6-ae78-a4222aa3aa59",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_bullet_parent\/o_bullet_parent.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1041,7 +1098,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/sprite16\/sprite16.yy",
+                "resourcePath": "sprites\/s_bullet_spyware\/s_bullet_spyware.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1136,7 +1193,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/s_bullet\/s_bullet.yy",
+                "resourcePath": "sprites\/s_bullet_virus\/s_bullet_virus.yy",
                 "resourceType": "GMSprite"
             }
         },

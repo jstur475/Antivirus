@@ -3,4 +3,4 @@
 
 timeline_index = timeline0;
 timeline_running = true;
-timeline_speed = 1;
+timeline_speed = 2;

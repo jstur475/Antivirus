@@ -41,7 +41,7 @@
             "mvc": "1.0",
             "objectId": "c38303df-5c95-41ec-b108-1c05ce0894e4",
             "propertyId": "c2a496b9-3aec-4da5-add9-4f5be15807e2",
-            "value": "25"
+            "value": "400"
         },
         {
             "id": "90fcc440-24c4-47a9-926a-82fb83ad0005",
@@ -49,7 +49,7 @@
             "mvc": "1.0",
             "objectId": "c38303df-5c95-41ec-b108-1c05ce0894e4",
             "propertyId": "65befef5-949d-422e-8517-8571b9a8aeca",
-            "value": "25"
+            "value": "400"
         },
         {
             "id": "a22ba78c-922a-4455-ba68-8636e67e7776",

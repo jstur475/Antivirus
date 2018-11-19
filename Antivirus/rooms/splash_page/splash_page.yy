@@ -1,13 +1,13 @@
 
 {
-    "name": "room1",
+    "name": "splash_page",
     "id": "1fc298aa-ca76-451a-a9b4-dc72b23673b7",
     "creationCodeFile": "",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-
+        "d0ea79bf-d19a-41bf-82c4-a80dc98a51a2"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +25,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_1FD2F39C","id": "d0ea79bf-d19a-41bf-82c4-a80dc98a51a2","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1FD2F39C","objId": "6cf17db9-e4d9-44e9-99e8-04672c7959ea","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 608,"y": 448}
             ],
             "layers": [
 
@@ -43,7 +43,7 @@
             "id": "43c93226-b772-42d1-9678-0d7e3293f21b",
             "animationFPS": 15,
             "animationSpeedType": "0",
-            "colour": { "Value": 4278190080 },
+            "colour": { "Value": 4294967295 },
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,

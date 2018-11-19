@@ -23,6 +23,16 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "c38303df-5c95-41ec-b108-1c05ce0894e4"
+        },
+        {
+            "id": "18379dca-0a28-400b-80ea-c61b2f43f421",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 6,
+            "m_owner": "c38303df-5c95-41ec-b108-1c05ce0894e4"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -96,6 +106,20 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "tower_cooldown_reset",
+            "varType": 0
+        },
+        {
+            "id": "da3b87dd-9a4c-4641-a765-d24b72dcb0a7",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "tower_cost",
             "varType": 0
         }
     ],

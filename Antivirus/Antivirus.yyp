@@ -172,6 +172,25 @@
             }
         },
         {
+            "Key": "1448a377-3251-4179-8168-ca74ea48e9ce",
+            "Value": {
+                "id": "66787fca-4b5f-4119-9c40-b3660d40c3c1",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/mus_start\/mus_start.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "159c584f-8243-485d-a6aa-837d8fee3b47",
             "Value": {
                 "id": "32aeea24-803f-413d-8243-9cfe22aa3726",
@@ -378,6 +397,25 @@
                 ],
                 "resourcePath": "objects\/o_side_2\/o_side_2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "37607446-c0a9-4d95-bc32-a0e1ed975eeb",
+            "Value": {
+                "id": "52b72f81-8812-477c-b6ec-9936dba43ee1",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/sfx_shooting\/sfx_shooting.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -872,6 +910,25 @@
                 ],
                 "resourcePath": "objects\/o_tower_antivirus\/o_tower_antivirus.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a0651114-83cf-4e43-8af7-9d0da34a3907",
+            "Value": {
+                "id": "9b39647e-38e2-4bc5-8bd1-a74ce7036cb7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/mus_level1\/mus_level1.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1423,6 +1480,25 @@
                 ],
                 "resourcePath": "objects\/o_request_virus\/o_request_virus.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ee034fbf-b9da-4e96-8812-d83f4b78a4f5",
+            "Value": {
+                "id": "33b82a0f-9696-4be1-bf01-12c4cde2d1a0",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/ee034fbf-b9da-4e96-8812-d83f4b78a4f5.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Target Bug
 // You can write your code in this editor
 tower_cooldown += -1;
 

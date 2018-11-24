@@ -1,2 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+blink = 0;
+r = 255;
+g = 255;
+b = 255;

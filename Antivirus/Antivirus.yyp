@@ -271,6 +271,22 @@
             }
         },
         {
+            "Key": "618a5df3-3738-46f2-9c0f-e32fbb422d49",
+            "Value": {
+                "id": "06356e4d-9d9c-46c9-86b3-34e47c2bfc1f",
+                "resourcePath": "objects\\o_splash_title\\o_splash_title.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "64e46047-9023-4b62-af31-5c085e7e58fd",
+            "Value": {
+                "id": "c11933ee-6227-4132-8382-590127a3b95a",
+                "resourcePath": "scripts\\Shading\\Shading.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "665e8244-ef99-4ef7-ad08-2bb69e91a4e6",
             "Value": {
                 "id": "6012ed44-8f3c-4c8b-99bd-c21f320f3b02",
@@ -411,6 +427,14 @@
             "Value": {
                 "id": "c5da388a-de4e-4f8f-9193-897f5f12cbe3",
                 "resourcePath": "objects\/o_straight\/o_straight.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8b3adbe3-f95b-4939-b9fb-9ff0b47ed562",
+            "Value": {
+                "id": "7f6b23d7-f6e5-49ef-aa66-d780b2ba75b7",
+                "resourcePath": "objects\\o_tower_antispyware_d\\o_tower_antispyware_d.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -599,6 +623,14 @@
             }
         },
         {
+            "Key": "ce3f0747-2959-4491-bb67-587cf30dd69b",
+            "Value": {
+                "id": "71485351-8fb7-431e-b8af-c7b2d3df998f",
+                "resourcePath": "objects\\o_tower_antispyware_c\\o_tower_antispyware_c.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d35c73c1-6612-4118-a83a-98565e478161",
             "Value": {
                 "id": "e522e764-3f5e-4c31-a9a2-91171a9a5b28",
@@ -744,7 +776,7 @@
         }
     ],
     "script_order": [
-        
+        "64e46047-9023-4b62-af31-5c085e7e58fd"
     ],
     "tutorial": ""
 }

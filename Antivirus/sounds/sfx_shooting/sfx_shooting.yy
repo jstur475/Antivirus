@@ -1,5 +1,5 @@
 {
-    "id": "37607446-c0a9-4d95-bc32-a0e1ed975eeb",
+    "id": "39cff36d-05ed-4c65-9040-0dc16afbc639",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "sfx_shooting",
@@ -9,6 +9,6 @@
     "kind": 0,
     "preload": false,
     "sampleRate": 44100,
-    "type": 0,
-    "volume": 0.33
+    "type": 1,
+    "volume": 0.36
 }

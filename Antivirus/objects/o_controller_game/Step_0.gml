@@ -13,17 +13,3 @@ if (
 		game_end();
 	}
 	
-	if room = splash_page
-	{
-		if(!is_music_playing){
-		//play music 
-		audio_play_sound(mus_start, 0, true);
-		is_music_playing = true;
-		}
-	}
-	else if room = level_1
-	{
-		
-		//play music 
-		audio_play_sound(mus_start, 0, true);
-	}

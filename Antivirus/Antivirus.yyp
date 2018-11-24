@@ -186,7 +186,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sounds\/mus_start\/mus_start.yy",
+                "resourcePath": "sounds\/mus_level1\/mus_level1.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -400,9 +400,9 @@
             }
         },
         {
-            "Key": "37607446-c0a9-4d95-bc32-a0e1ed975eeb",
+            "Key": "39cff36d-05ed-4c65-9040-0dc16afbc639",
             "Value": {
-                "id": "52b72f81-8812-477c-b6ec-9936dba43ee1",
+                "id": "cfe0c63c-f958-4ed3-ae73-4aa3398f5fee",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -856,6 +856,25 @@
             }
         },
         {
+            "Key": "98ccfdcf-3c85-4ce7-b275-bb3642829fae",
+            "Value": {
+                "id": "4edea3f0-d1d8-4cf7-81a0-ac2cd5092530",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/sfx_hurt\/sfx_hurt.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "991411ef-3412-4d9d-acf1-da50f9b30ce5",
             "Value": {
                 "id": "2603faf6-4ca8-48b6-ae78-a4222aa3aa59",
@@ -927,7 +946,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sounds\/mus_level1\/mus_level1.yy",
+                "resourcePath": "sounds\/mus_start\/mus_start.yy",
                 "resourceType": "GMSound"
             }
         },

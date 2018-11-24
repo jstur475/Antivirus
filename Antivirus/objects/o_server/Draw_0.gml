@@ -1,3 +1,4 @@
+/// @description Blink sprite mask
 // Gives player feedback when a request reaches the server.
 
 draw_self();
@@ -26,3 +27,4 @@ if (blink > 0)
 	shader_reset();
 	gpu_set_blendmode(bm_normal);
 }
+

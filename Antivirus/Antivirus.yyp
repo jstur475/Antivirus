@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "1448a377-3251-4179-8168-ca74ea48e9ce",
+            "Value": {
+                "id": "66787fca-4b5f-4119-9c40-b3660d40c3c1",
+                "resourcePath": "sounds\/mus_level1\/mus_level1.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "159c584f-8243-485d-a6aa-837d8fee3b47",
             "Value": {
                 "id": "32aeea24-803f-413d-8243-9cfe22aa3726",
@@ -175,6 +183,14 @@
             }
         },
         {
+            "Key": "39cff36d-05ed-4c65-9040-0dc16afbc639",
+            "Value": {
+                "id": "cfe0c63c-f958-4ed3-ae73-4aa3398f5fee",
+                "resourcePath": "sounds\/sfx_shooting\/sfx_shooting.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "39e2d47b-182b-437d-b5a2-931c3f2d27b4",
             "Value": {
                 "id": "e5047c11-1e17-4cc1-866f-5e7ccff20cff",
@@ -188,6 +204,14 @@
                 "id": "558e4eb9-c0d4-4648-afc4-a32832a2b829",
                 "resourcePath": "views\/41e550b5-5872-4dcb-9604-83633417eeec.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "426edef7-0d08-404a-ae4a-64e156394ee4",
+            "Value": {
+                "id": "f6adf48f-ed01-4ffd-a17d-477c270a881a",
+                "resourcePath": "objects\\o_splash_title\\o_splash_title.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -367,6 +391,14 @@
             }
         },
         {
+            "Key": "98ccfdcf-3c85-4ce7-b275-bb3642829fae",
+            "Value": {
+                "id": "4edea3f0-d1d8-4cf7-81a0-ac2cd5092530",
+                "resourcePath": "sounds\/sfx_hurt\/sfx_hurt.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "991411ef-3412-4d9d-acf1-da50f9b30ce5",
             "Value": {
                 "id": "2603faf6-4ca8-48b6-ae78-a4222aa3aa59",
@@ -388,6 +420,14 @@
                 "id": "8289e68f-c542-4a90-9849-f310e1e8e708",
                 "resourcePath": "objects\/o_tower_antivirus\/o_tower_antivirus.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a0651114-83cf-4e43-8af7-9d0da34a3907",
+            "Value": {
+                "id": "9b39647e-38e2-4bc5-8bd1-a74ce7036cb7",
+                "resourcePath": "sounds\/mus_start\/mus_start.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -583,6 +623,14 @@
             }
         },
         {
+            "Key": "de9dbab1-30d5-4ddc-b8cd-01735312c7f2",
+            "Value": {
+                "id": "7bd3f3d0-a9ae-45b0-9e8a-2541cc4569b9",
+                "resourcePath": "sprites\\s_splash_title\\s_splash_title.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e03a9693-5d4c-45a0-b2e5-adf983d12a5d",
             "Value": {
                 "id": "275e26ec-c167-4993-86d9-b42d4c219e63",
@@ -620,6 +668,14 @@
                 "id": "46360534-7317-4a03-bf6a-b4f62768d00c",
                 "resourcePath": "objects\/o_request_virus\/o_request_virus.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ee034fbf-b9da-4e96-8812-d83f4b78a4f5",
+            "Value": {
+                "id": "33b82a0f-9696-4be1-bf01-12c4cde2d1a0",
+                "resourcePath": "views\/ee034fbf-b9da-4e96-8812-d83f4b78a4f5.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

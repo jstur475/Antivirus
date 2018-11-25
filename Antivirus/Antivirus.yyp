@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "93a3e575-0230-4f40-9744-4458f9e24254",
+            "Value": {
+                "id": "c8ae7f49-6333-4eec-b29f-7c1ce7a8d1e8",
+                "resourcePath": "sprites\\s_tile_panel_straight1\\s_tile_panel_straight1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "98ccfdcf-3c85-4ce7-b275-bb3642829fae",
             "Value": {
                 "id": "4edea3f0-d1d8-4cf7-81a0-ac2cd5092530",
@@ -524,6 +532,14 @@
                 "id": "a207ba5a-2945-4a45-86a4-b39660ab2bf5",
                 "resourcePath": "objects\/o_bullet_spyware\/o_bullet_spyware.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b48917e2-1cd0-4f94-9817-85c439d793bf",
+            "Value": {
+                "id": "93c48103-3791-4fcb-9ca4-3831815b01c1",
+                "resourcePath": "sprites\\s_tile_panel_straight2\\s_tile_panel_straight2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -631,6 +647,14 @@
             }
         },
         {
+            "Key": "cfd62e96-3e20-41f0-a596-033490036824",
+            "Value": {
+                "id": "0cb78e9d-c413-40c8-a3e1-dbc79b0064bd",
+                "resourcePath": "sprites\\s_tile_panel_corner\\s_tile_panel_corner.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d35c73c1-6612-4118-a83a-98565e478161",
             "Value": {
                 "id": "e522e764-3f5e-4c31-a9a2-91171a9a5b28",
@@ -732,6 +756,14 @@
                 "id": "33b82a0f-9696-4be1-bf01-12c4cde2d1a0",
                 "resourcePath": "views\/ee034fbf-b9da-4e96-8812-d83f4b78a4f5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ee3a81a6-28b6-48dc-90ed-0e59c4da6262",
+            "Value": {
+                "id": "c6f3e2d9-a49e-4b80-ad8d-63931c13e566",
+                "resourcePath": "sprites\\s_tool_firewall\\s_tool_firewall.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

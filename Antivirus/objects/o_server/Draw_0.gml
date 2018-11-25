@@ -5,7 +5,7 @@ draw_self();
 
 if (blink > 0)
 {
-	blink -= 0.05;
-	Shading();
+	blink -= 0.1;
+	shadeSprite();
 }
 

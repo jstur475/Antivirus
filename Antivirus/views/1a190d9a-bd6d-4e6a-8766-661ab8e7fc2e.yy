@@ -5,7 +5,7 @@
     "name": "1a190d9a-bd6d-4e6a-8766-661ab8e7fc2e",
     "children": [
         "85ca5cae-d38f-437f-98d3-7050dd8919da",
-        "8b3adbe3-f95b-4939-b9fb-9ff0b47ed562"
+        "b0615bf4-900d-42b6-a2df-66c91d449b0d"
     ],
     "filterType": "GMObject",
     "folderName": "o_tower_dragged",

@@ -1236,6 +1236,25 @@
             }
         },
         {
+            "Key": "b0f75129-71bf-4673-a767-b5db59c911af",
+            "Value": {
+                "id": "772ce389-e2ee-412b-b962-7618f454740f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/sfx_endGame\/sfx_endGame.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "b1b2c16c-0e00-4062-b76d-3e210e366ace",
             "Value": {
                 "id": "666b1d22-7e5f-4711-beba-2a8ed851b54f",

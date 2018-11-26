@@ -7,7 +7,8 @@ if (
 	instance_number(o_request_virus) == 0 &&
 	instance_number(o_request_spyware) == 0 &&
 	instance_number(o_request_trojan) == 0 &&
-	timeline0.timeline_running == false) 
+	timeline0.timeline_running == false &&
+	gameState == 3) 
 	{
 		
 		audio_play_sound(sfx_endGame, 2, false);
